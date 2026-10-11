@@ -17,3 +17,6 @@ segno #qr code generation from the url
 pillow  
 
 streamlit
+
+librosa
+resemblyzer
