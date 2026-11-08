@@ -33,11 +33,11 @@ def style_base_layout():
             @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Outfit:wght@100..900&display=swap');
 
             /* ---------- HIDE STREAMLIT CHROME ---------- */
-            /*#MainMenu,
+            #MainMenu,
             footer,
             header {
                 visibility: hidden;
-            }*/
+            }
 
             .block-container {
                 padding-top: 1.5rem !important;
